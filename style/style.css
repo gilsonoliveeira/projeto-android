@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @font-face {
     font-family:'android';
-    src: url('fontes/idroid.otf') format('opentype');
+    src: url('../fontes/idroid.otf') format('OpenType');
 }
 
 * {
@@ -48,6 +48,7 @@ main h1 {
     font-family: var(--fonte-android);
     font-weight: normal;
     font-size: 1.8em;
+    
 }
 
 main h2 {
